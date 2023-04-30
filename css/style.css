@@ -223,7 +223,7 @@ body {
     padding: 96px 0 120px 0;
 }
 
-.first-section {
+.first-sect {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     max-width: 1440px;
     background-repeat: no-repeat;
