@@ -224,7 +224,7 @@ body {
 }
 
 .first-section {
-    background-color: var(--spanny);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     text-align: center;
     justify-content: center;
     padding: 188px 0;
