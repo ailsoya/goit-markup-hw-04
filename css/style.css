@@ -353,8 +353,8 @@ body {
 }
 
 .firm-link:hover, .firm-link:focus {
-    border-color: #404bbf;
-    color: #404bbf;
+    border-color: var(--link-cont);
+    color: var(--link-cont);
 }
 
 .svgy {
