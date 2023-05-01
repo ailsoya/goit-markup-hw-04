@@ -6,7 +6,7 @@
     --spanny: #2e2f42;
     --cloud: #f4f4fd;
     --border: #e7e9fc;
-    --iconsecttwo: #8e8f99;
+    --icon-sect-two: #8e8f99;
 }
 
 body {
@@ -356,7 +356,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--iconsecttwo);
+    color: var(--icon-sect-two);
 }
 
 .firm-link:hover, .firm-link:focus {
