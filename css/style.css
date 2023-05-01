@@ -359,14 +359,9 @@ body {
     color: #8e8f99;
 }
 
-.firm-link:hover {
-    border-color: var(--link-cont);
-    color: var(--link-cont);
-}
-
-.firm-link:focus {
-    border-color: var(--link-cont);
-    color: var(--link-cont);
+.firm-link:hover, .firm-link:focus {
+    border-color: #404bbf;
+    color: #404bbf;
 }
 
 .svgy {
@@ -390,13 +385,10 @@ body {
     justify-content: center;
 }
 
-.media-link:hover {
+.media-link:hover, .media-link:focus {
     background-color: #31d0aa;
 }
 
-.media-link:focus {
-    background-color: #31d0aa;
-}
 
 .madiaaa {
     fill: var(--cloud);
