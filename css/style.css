@@ -356,10 +356,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--icon-sect-two);
+    color: #8e8f99;
 }
 
-.firm-link:hover, .firm-link:focus {
+.firm-link:hover {
+    border-color: var(--link-cont);
+    color: var(--link-cont);
+}
+
+.firm-link:focus {
     border-color: var(--link-cont);
     color: var(--link-cont);
 }
@@ -390,7 +395,11 @@ body {
     justify-content: center;
 }
 
-.media-link:hover, .media-link:focus {
+.media-link:hover {
+    background-color: #31d0aa;
+}
+
+.media-link:focus {
     background-color: #31d0aa;
 }
 
